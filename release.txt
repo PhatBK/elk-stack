@@ -4,3 +4,6 @@ https://www.elastic.co/guide/en/elasticsearch/reference/current/es-release-notes
 
 https://www.elastic.co/guide/en/kibana/current/release-notes.html
 
+https://www.linode.com/docs/databases/elasticsearch/a-guide-to-elasticsearch-plugins/
+
+https://sysadmins.co.za/how-to-ingest-nginx-access-logs-to-elasticsearch-using-filebeat-and-logstash/
