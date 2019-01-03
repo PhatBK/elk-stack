@@ -1,0 +1,7 @@
+https://discuss.elastic.co/t/date-pattern-in-file-input-path/100538
+
+https://discuss.elastic.co/t/dynamic-input-file-name/25951
+
+https://logstash.jira.com/browse/LOGSTASH-1017
+
+https://github.com/elastic/logstash/issues/2335
