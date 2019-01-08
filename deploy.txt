@@ -5,3 +5,7 @@ https://discuss.elastic.co/t/dynamic-input-file-name/25951
 https://logstash.jira.com/browse/LOGSTASH-1017
 
 https://github.com/elastic/logstash/issues/2335
+
+https://medium.com/@weblab_tech/encrypted-client-server-communication-protection-of-privacy-and-integrity-with-aes-and-rsa-in-c7b180fe614e
+
+https://medium.com/zinc_work/using-cryptography-tweetnacl-js-to-protect-user-data-intro-tips-tricks-a8e38e1818b5
